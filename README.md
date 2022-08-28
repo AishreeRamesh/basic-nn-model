@@ -13,7 +13,7 @@ First import the libraries which we will going to use and Import the dataset and
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://user-images.githubusercontent.com/70213227/187084004-8e6e1284-c85f-45b7-b3f5-c68f538a1aa5.png)
 
 ## DESIGN STEPS
 
