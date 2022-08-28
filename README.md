@@ -89,7 +89,7 @@ r(y_test,preds)
 ```
 ## Dataset Information
 
-![image](https://user-images.githubusercontent.com/70213227/187081607-1ba5ddb6-0af1-48e5-a1d8-ef461012f5e5.png)
+![image](https://user-images.githubusercontent.com/70213227/187082574-306cdcf2-f2a0-41c2-b7cd-d2a8190bb071.png)
 
 ## OUTPUT
 
